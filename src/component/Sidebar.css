@@ -1,0 +1,13 @@
+.sidebar {
+  width: 200px;
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+.sidebar-item {
+  padding: 10px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  background-color: #ddd;
+  border-radius: 4px;
+}
